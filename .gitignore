@@ -1,4 +1,6 @@
 *.class
 *.jar
+*.floo
+*.flooignore
 target
 .idea/*
